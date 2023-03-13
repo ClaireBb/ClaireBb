@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with [Django Bookstore](https://github.com/ClaireBb/bookstore)
 
-- 👨‍💻 All of my projects are available at [clairebb.github.io](clairebb.github.io)
+- 👨‍💻 My profile is available at [clairebb.github.io](clairebb.github.io)
 
 - 💬 Ask me about **SQL Server, SSIS and SSRS**
 
